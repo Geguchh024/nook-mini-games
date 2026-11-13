@@ -1,0 +1,10 @@
+# Four small original games drawn on the page's canvas, played with the keyboard or clicks.
+id = "mini-games"
+name = "Mini Games"
+icon = "game-controller"
+size = "small"
+run = ["python", "main.py"]
+page_size = [660, 420]
+description = "Comet (a wrap-around snake-like), Doubles (slide and merge tiles), Reflex (reaction time) and Pairs (memory). Arrow keys or WASD, Space and Tab; best scores are saved."
+author = "Nook"
+version = "1.1.0"
